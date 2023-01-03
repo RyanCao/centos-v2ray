@@ -25,5 +25,6 @@ YourID=e3114f49-2ebc-401b-a7f9-4f5ed27f9f2b
 
 执行
 ```
+chmod +x v2ray.sh
 ./v2ray.sh build
 ```
