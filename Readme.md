@@ -28,3 +28,14 @@ YourID=e3114f49-2ebc-401b-a7f9-4f5ed27f9f2b
 chmod +x v2ray.sh
 ./v2ray.sh 
 ```
+
+### `Debian`安装命令
+
+```
+sudo apt-get install vim git -y 
+```
+
+```
+git clone https://github.com/RyanCao/centos-v2ray.git
+cd centos-v2ray
+```
