@@ -39,3 +39,16 @@ sudo apt-get install vim git -y
 git clone https://github.com/RyanCao/centos-v2ray.git
 cd centos-v2ray
 ```
+
+
+修改
+```
+YourDomain=vultr.rcant.com
+YourID=e3114f49-2ebc-401b-a7f9-4f5ed27f9f2b
+```
+
+执行
+```
+chmod +x v2ray-debian.sh
+./v2ray-debian.sh 
+```
